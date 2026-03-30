@@ -14,7 +14,7 @@
 
 ## 專案展示與連結資訊
 
-1. **GitHub 儲存庫:** [coke5151/iot2026-esp32-hw1](https://github.com/coke5151/iot2026-esp32-hw1)
+1. **GitHub 儲存庫:** [KungTan/aiot_esp32_hm1](https://github.com/KungTan/aiot_esp32_hm1)
 2. **公開線上展示 (Streamlit Community Cloud):** [https://iot2026-arduino-hw1-pytree.streamlit.app/](https://iot2026-arduino-hw1-pytree.streamlit.app/)
 3. **YouTube 實機展示影片:** [觀看硬體實作影片](https://www.youtube.com/watch?v=hUg5mjioVz8)
    > 影片中展示了 ESP32 實際讀取 DHT11 感測器溫濕度資料，並成功上傳至後端伺服器，最後即時呈現於 Streamlit 前端儀表板上的完整流程。
